@@ -1,0 +1,26 @@
+      W0 D0 I0 D0 
+      I1 O2 D2 I2 O0 I3 D3 O4 N0 O1 D2 N1 O0 N2 D3 O2 N3 
+      I1 O2 D2 N3 O0 I2 D2 I3 O4 N0 O0 N2 D1 N4 O0 I4 O2 D2 N2 O0 N1 D3 D3 O1 N1 O2 D2 N5 O1 N6 D3 D3 
+      I1 O5 I5 D2 D3 O4 I2 D2 N3 D1 N7 D1 I4 D2 D3 O2 N3 D3 
+      I1 O5 I5 D2 D3 
+M0 W4 D0 I6 
+      W5 D0 I7 D1 I8 
+      W6 D0 I9 
+      W6 D0 I10 
+      I9 O5 S0 
+      W7 D0 I11 D0 D2 I12 D1 I13 D1 I14 D3 
+      I7 O5 I7 O0 N8 
+      W13 D0 D2 I6 O6 I7 D3 D0 W12 D0 M1 
+      W4 D0 I15 
+      I15 O5 I15 O2 N2 
+      I7 O5 I7 O2 I15 
+      W3 D0 I16 D2 I12 D1 I13 D1 I14 D3 
+M1 D0 D0 D0 
+      W1 
+      W2 
+      W4 D0 W8 D0 I16 
+      W9 D0 I17 D1 I18 D1 I19 
+      I19 O5 I19 O0 N9 
+      I17 O5 I17 O0 I18 
+      W10 
+      W2 
